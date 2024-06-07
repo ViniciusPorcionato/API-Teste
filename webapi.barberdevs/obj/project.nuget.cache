@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UqafIA9TOBa9yQY5b4ap8q3keZceWJTKozqv/BQz94otGDvwD0Vao1A/ssujF95X7gtlRMFfVQb/0nxlSyZyfA==",
+  "dgSpecHash": "1PXbDyqFsuYh4rAgAQWopcn3wNtEe8T/vZu0u8k52mgtzJOad7gzs2/7kycBo/fzNrTRUHBD9Amcvd5HVslDmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\webapi.barberdevs\\webapi.barberdevs.csproj",
+  "projectFilePath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\API-Teste\\webapi.barberdevs\\webapi.barberdevs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\porci\\.nuget\\packages\\azure.core\\1.39.0\\azure.core.1.39.0.nupkg.sha512",
     "C:\\Users\\porci\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

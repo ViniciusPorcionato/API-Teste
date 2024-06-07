@@ -8,7 +8,7 @@ namespace webapi.barberdevs.Interfaces
         public Agendamento BuscarPorId(Guid id);
         public void Deletar(Guid id);
         public List<Agendamento> ListarTodos();
-        public List<Agendamento> ListarPorBarbeiro(Guid IdMedico);
-        public List<Agendamento> ListarPorCliente(Guid IdPaciente);
+        public List<Agendamento> ListarPorBarbeiro(Guid IdBarbeiro);
+        public List<Agendamento> ListarPorCliente(Guid IdCliente);
     }
 }
